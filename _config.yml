@@ -59,14 +59,14 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name: "Pamela Efua Ofori"
-  avatar: "/assets/images/IMG_0867.jpeg"
-  bio: "PhD Candidate"
-  location: "Varese, Italy"
-  email: peofori@outlook.com  # Fixed email consistency
+  name         : "Pamela Efua Ofori"
+  avatar       : "/assets/images/IMG_0867.jpeg"
+  bio          : "PhD Candidate"
+  location     : "Varese, Italy"
+  email        : peofori@outlook.com  # Fixed email consistency
   googlescholar: "your-actual-scholar-id"  # Update with your actual ID
-  ResearchGate: "https://www.researchgate.net/profile/Pamela-Efua-Ofori"
-  ORCID: "https://orcid.org/0000-0002-9952-3586"
+  ResearchGate : "https://www.researchgate.net/profile/Pamela-Efua-Ofori"
+  ORCID        : "https://orcid.org/0000-0002-9952-3586"
   
   links:
     - label: "Twitter"
