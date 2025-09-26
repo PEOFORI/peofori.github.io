@@ -14,3 +14,6 @@ My current work combines econometrics, policy evaluation, and machine learning t
 sustainability, and well-being.
 
 I would be on the Economics job market, starting Fall 2025.
+
+- The latest version of my CV
+  <iframe src="https://drive.google.com/file/d/11ch2idmmvLra0DicLMo1g3bOdUYHFtDW/preview" width="640" height="480" allow="autoplay"></iframe>
