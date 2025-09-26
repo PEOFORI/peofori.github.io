@@ -10,7 +10,7 @@ title: ""
 layout: single
 author_profile: true
 ---
-
+# **Pamela Efua Ofori**
 Hi, welcome to my home page!
 
 I am currently a visiting scholar at the University of Granada and a **PhD candidate** at the University of Insubria.
