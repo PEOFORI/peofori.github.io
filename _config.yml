@@ -43,11 +43,13 @@ author:
       icon: "fas fa-fw fa-graduation-cap"
       url: "https://scholar.google.com/citations?user=9aWvNMUAAAAJ&hl=en&oi=ao"
     - label: "ORCID"
-      icon: "fab fa-fw fa-id-badge"  # Fixed: using ID badge instead of non-existent ORCID icon
+      icon: "fab fa-fw fa-orcid"
       url: "https://orcid.org/0000-0002-9952-3586"
     - label: "ResearchGate"
       icon: "fas fa-fw fa-flask"
       url: "https://www.researchgate.net/profile/Pamela-Efua-Ofori"
+
+     
 
 # Add footer section back
 footer:
