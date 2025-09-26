@@ -5,6 +5,9 @@ title: "**Teaching**"
 
 ---
 
+- **Teaching and Research Assistant**, University of Insubria, Sept. 2023 - Sept. 2024
+  
+     -Master thesis assistance
 
 - **Teaching and Research Assistant**, School of Economics, University of Cape Coast, Sept. 2018 - Aug. 2019
   
@@ -15,10 +18,6 @@ title: "**Teaching**"
     -Element of Economics
   
     -Econometrics
-
-- **Teaching and Research Assistant**, University of Insubria, Sept. 2023 - Sept. 2024
-  
-     -Master thesis assistance
 
 - **Tutor**, The Hartley Trust Foundation School, Kasoa, Mar. 2013 - Aug. 2014
   
