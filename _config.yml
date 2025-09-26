@@ -70,7 +70,16 @@ author:
       url: "https://x.com/Pamelaofori2"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://peofori.github.io/"
+      url: "https://peofori.github.io/"      
+   
+  - label: "Email"
+    icon: "fas fa-fw fa-envelope"
+    url: "mailto:peofori@outlook.com"
+      
+  ##  - label: "Instagram"
+   ##   icon: "fab fa-fw fa-instagram"
+   ##   url: "https://instagram.com/"
+
 
    
 footer:
