@@ -1,6 +1,6 @@
 ---
 permalink: /Teaching/
-title: "**Teaching**"
+title: ""
 #excerpt: "Page not found. Your pixels are in another canvas."
 
 ---
