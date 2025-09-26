@@ -1,9 +1,10 @@
 title: Pamela Efua Ofori
+name: "Pamela Efua Ofori"  # Add this missing line
 email: peofori@uninsubria.it
 description: >-
   Write an awesome description for your new site here.
 twitter_username: Pamelaofori2
-github_username: PEOFORI  # Fixed: just the username, not URL
+github_username: PEOFORI
 minimal_mistakes_skin: default
 search: true
 
@@ -24,8 +25,14 @@ plugins:
   - jekyll-gist
   - jekyll-feed
   - jekyll-redirect-from
-# mimic GitHub Pages with --safe
 
+# mimic GitHub Pages with --safe
+whitelist:  # Add the missing whitelist section
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jemoji
 
 author:
   name: "Pamela Efua Ofori"
@@ -51,20 +58,19 @@ author:
       icon: "fas fa-fw fa-flask"
       url: "https://www.researchgate.net/profile/Pamela-Efua-Ofori"
 
-     
-
-# Add footer section back
-#footer:
-#  links:
-   # - label: "Twitter"
-   #   icon: "fab fa-fw fa-twitter-square"
-   #   url: "https://twitter.com/Pamelaofori2"
-   # - label: "GitHub"
-   #   icon: "fab fa-fw fa-github"
-    #  url: "https://github.com/PEOFORI"
-   # - label: "Google Scholar"
-    #  icon: "fas fa-fw fa-graduation-cap"
-     # url: "https://scholar.google.com/citations?user=9aWvNMUAAAAJ&hl=en&oi=ao"
+# Footer section (uncomment if you want it)
+footer:
+  content: '© 2025 Pamela Efua Ofori. Powered by Jekyll & Minimal Mistakes.'
+  links:
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/Pamelaofori2"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/PEOFORI"
+    - label: "Google Scholar"
+      icon: "fas fa-fw fa-graduation-cap"
+      url: "https://scholar.google.com/citations?user=9aWvNMUAAAAJ&hl=en&oi=ao"
 
 defaults:
   - scope:
