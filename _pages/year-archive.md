@@ -1,5 +1,5 @@
 ---
-title: "***Talks**"
+title: ""
 permalink: /Talks/
 
 ---
@@ -22,11 +22,20 @@ permalink: /Talks/
 
 -Pathway to Sustainability: The Role of Eco-Innovation and Income Inequality in Green Growth. Presenter at the 25th IWH-CIREQ-GW-BOKERI Macroeconometric Workshop on International Macroeconomics,  Halle (Saale) on November 25-26 2024. IWH 
 
--Pathway to Sustainability: The Role of Eco-Innovation and Income Inequality in Green Growth.  Presenter at the 19th BiGSEM Workshop Economics, Finance, and Management, December 16th -17th, 2024, Bielefeld Graduate School of Economics and Management, Bielefeld, Germany.BiGSEM  
+-Pathway to Sustainability: The Role of Eco-Innovation and Income Inequality in Green Growth.  Presenter at the 19th BiGSEM Workshop Economics, Finance, and Management, December 16th -17th, 2024, Bielefeld Graduate School of Economics and Management, Bielefeld, Germany.BiGSEM 
+
 
 
 ## **Seminars**
 
 -Granada Seminar Series, Granada Department of Economic Theory and History, University of Granada, Spain
 -Jena Economics Research Seminar Series (Winter Semester), Presenter and Discussant, University of Jena, Germany.
+
+
+###**Summer School**
+
+The Bioeconomy Transformation: Science, Economics, Business and Society’ Villa del Grumello, Como (Italy) 5 Jun 2023 – 9 Jun 2023 [2nd edition]BTSE
+
+Organized with Loredano Pollegioni, Daniela Ubiali, Andrea Vezzulli, together with the Lake Como School of Advanced Studies. 
+
 
