@@ -1,5 +1,5 @@
 title: Pamela Efua Ofori
-name: "Pamela Efua Ofori"  # Add this missing line
+name: "Pamela Efua Ofori"
 email: peofori@uninsubria.it
 description: >-
   Write an awesome description for your new site here.
@@ -10,7 +10,7 @@ search: true
 
 # Build settings
 markdown: kramdown
-remote_theme: mmistakes/minimal-mistakes
+theme: minimal-mistakes  # Use this for GitHub Pages
 permalink: /:categories/:title/
 paginate: 5
 paginate_path: /page:num/
@@ -18,21 +18,16 @@ paginate_path: /page:num/
 include:
   - _pages
 
-# Plugins
+# Plugins (for GitHub Pages, only whitelisted plugins are allowed)
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
   - jekyll-feed
   - jekyll-redirect-from
-
-# mimic GitHub Pages with --safe
-whitelist:  # Add the missing whitelist section
-  - jekyll-paginate
-  - jekyll-sitemap
-  - jekyll-gist
-  - jekyll-feed
   - jemoji
+
+# No need for whitelist section in _config.yml for GitHub Pages? Actually, GitHub Pages uses a safe mode and only allows whitelisted plugins. The whitelist is not a configuration we set, but we must only use the allowed plugins.
 
 author:
   name: "Pamela Efua Ofori"
@@ -58,7 +53,6 @@ author:
       icon: "fas fa-fw fa-flask"
       url: "https://www.researchgate.net/profile/Pamela-Efua-Ofori"
 
-# Footer section (uncomment if you want it)
 footer:
   content: '© 2025 Pamela Efua Ofori. Powered by Jekyll & Minimal Mistakes.'
   links:
