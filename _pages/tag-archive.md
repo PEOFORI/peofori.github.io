@@ -35,7 +35,7 @@ permalink: /Research/
 
 - Ofori, P. E., & Grechyna, D. (2021). Remittances, natural resource rent and economic growth in Sub-Saharan Africa. Cogent Economics & Finance, 9(1), 1979305. https://doi.org/10.1080/23322039.2021.1979305
 
-  ### **Book Chapter**
+### **Book Chapter**
 
 - Vezzulli, A., Ofori, I. K., Ofori, P. E & Gbolonyo, E. Y. (2023). Inclusive Green Growth in OECD Countries: Insight from the Lasso Regularisation and Inferential Techniques. In: Kunze, H.; La Torre, D.; Riccoboni, A; Galan, R. M. (eds). Artificial Intelligence and Engineering Mathematics: Foundations, Techniques, and Applications. Taylor and Francis. 
 
