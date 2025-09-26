@@ -32,7 +32,7 @@ permalink: /Talks/
 -Jena Economics Research Seminar Series (Winter Semester), Presenter and Discussant, University of Jena, Germany.
 
 
-###**Summer School**
+### **Summer School**
 
 The Bioeconomy Transformation: Science, Economics, Business and Society’ Villa del Grumello, Como (Italy) 5 Jun 2023 – 9 Jun 2023 [2nd edition]BTSE
 
