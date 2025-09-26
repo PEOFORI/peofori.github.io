@@ -1,6 +1,6 @@
 ---
-permalink: /Talks/
-title: "**Conferences and Workshops**"
+permalink: /CV/
+title: "**CV**"
 #excerpt: "Page not found. Your pixels are in another canvas."
 
 ---
