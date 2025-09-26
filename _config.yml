@@ -71,10 +71,7 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://peofori.github.io/"      
-   - label: "Email"
-     icon: "fas fa-fw fa-envelope"
-     url: "mailto:peofori@outlook.com"
-
+   
    
 footer:
   links:
