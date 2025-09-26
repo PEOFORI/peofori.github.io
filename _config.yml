@@ -59,31 +59,22 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name            : "Pamela Efua Ofori"
-  avatar          : "/assets/images/IMG_0867.jpeg"
-  bio             : "PhD Candidate"
-  location        : "Varese, Italy"
-  email           : carlotta.montorsi@unito.it
-  googlescholar   : "https://scholar.google.com/citations?user=9aWvNMUAAAAJ&hl=en&oi=ao"
-  ResearchGate    : "https://www.researchgate.net/profile/Pamela-Efua-Ofori?ev=hdr_xprf"
-  ORCID           : "https://orcid.org/0000-0002-9952-3586"
-  Twitter         : "Pamelaofori2"
-
-
+  name: "Pamela Efua Ofori"
+  avatar: "/assets/images/IMG_0867.jpeg"
+  bio: "PhD Candidate"
+  location: "Varese, Italy"
+  email: peofori@outlook.com  # Fixed email consistency
+  googlescholar: "your-actual-scholar-id"  # Update with your actual ID
+  ResearchGate: "https://www.researchgate.net/profile/Pamela-Efua-Ofori"
+  ORCID: "https://orcid.org/0000-0002-9952-3586"
+  
   links:
-   # - label: "Website"
-     # icon: "fas fa-fw fa-link"
-     # url: "https://github.com/PEOFORI/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://x.com/Pamelaofori2"
+      url: "https://twitter.com/Pamelaofori2"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/PEOFORI/"      
-   
-   ##   icon: "fab fa-fw fa-instagram"
-   ##   url: "https://instagram.com/"
-
+      url: "https://github.com/PEOFORI"
 
    
 footer:
