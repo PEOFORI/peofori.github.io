@@ -10,8 +10,9 @@ title: ""
 layout: single
 author_profile: true
 ---
-# **Pamela Efua Ofori**
 Hi, welcome to my home page!
+
+# **Pamela Efua Ofori**
 
 I am currently a visiting scholar at the University of Granada and a **PhD candidate** at the University of Insubria.
 My research interests include **sustainability**, **gender studies**, **development economics**, and **economics of innovation**. 
