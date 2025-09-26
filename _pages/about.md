@@ -1,11 +1,8 @@
 
+---
 
----
----
 permalink: /Talks/
 title: "**Conferences and Workshops**"
-
-
 
 ---
 
