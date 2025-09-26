@@ -59,9 +59,17 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Pamela Efua Ofori"
-  avatar : "/assets/images/IMG_0867.jpeg"
-  bio    : "PhD Candidate"
+  name            : "Pamela Efua Ofori"
+  avatar          : "/assets/images/IMG_0867.jpeg"
+  bio             : "PhD Candidate"
+location          : "Varese, Italy"
+  email           : carlotta.montorsi@unito.it
+  googlescholar   : "https://scholar.google.com/citations?user=9aWvNMUAAAAJ&hl=en&oi=ao"
+  ResearchGate    : "https://www.researchgate.net/profile/Pamela-Efua-Ofori?ev=hdr_xprf"
+  ORCID           : "https://orcid.org/0000-0002-9952-3586"
+  Twitter         : "Pamelaofori2"
+
+
   links:
    # - label: "Website"
      # icon: "fas fa-fw fa-link"
