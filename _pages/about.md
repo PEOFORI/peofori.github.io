@@ -2,9 +2,12 @@
 ---
 
 permalink: /Talks/
+
 title: "**Conferences and Workshops**"
 
 ---
+
+# Conferences and Workshops
 
 -Pathway to Sustainability: The Role of Eco-Innovation and Income Inequality in Green Growth. Presenter  at the 2025 Eastern Sociological Society Annual Meeting (#ESS2025) March 6-9, 2025, Boston, MA, USA. ESS2025 
 
