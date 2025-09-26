@@ -5,6 +5,7 @@
 layout: home
 author_profile: true
 ---
+
 I am currently a visiting scholar at the University of Granada and a **PhD candidate** at the University of Insubria.
 
 My research interests include sustainability, gender studies, development economics, and economics of innovation. My current work combines econometrics, policy evaluation, and machine learning to deliver insights on income inequality, sustainability, and well-being.
