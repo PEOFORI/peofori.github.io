@@ -20,7 +20,7 @@ title: "**Teaching**"
   
      -Master thesis assistance
 
-- Teacher, The Hartley Trust Foundation School, Kasoa, Mar. 2013 - Aug. 2014
+- **Tutor**, The Hartley Trust Foundation School, Kasoa, Mar. 2013 - Aug. 2014
   
    -Reading and Writing for Beginners
   
