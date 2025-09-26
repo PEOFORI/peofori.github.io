@@ -1,6 +1,13 @@
+
 ---
 permalink: /Talks/
 title: "**Conferences and Workshops**"
+
+# You don't need to edit this file, it's empty on purpose.
+# Edit theme's home layout instead if you wanna make some changes
+# See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+layout: home
+author_profile: true
 ---
 
 -Pathway to Sustainability: The Role of Eco-Innovation and Income Inequality in Green Growth. Presenter  at the 2025 Eastern Sociological Society Annual Meeting (#ESS2025) March 6-9, 2025, Boston, MA, USA. ESS2025 
