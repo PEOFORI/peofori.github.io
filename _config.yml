@@ -25,12 +25,6 @@ plugins:
   - jekyll-feed
   - jekyll-redirect-from
 # mimic GitHub Pages with --safe
-whitelist:
-  - jekyll-paginate
-  - jekyll-sitemap
-  - jekyll-gist
-  - jekyll-feed
-  - jemoji
 
 
 author:
@@ -60,14 +54,14 @@ author:
      
 
 # Add footer section back
-footer:
-  links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/Pamelaofori2"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/PEOFORI"
+#footer:
+#  links:
+   # - label: "Twitter"
+   #   icon: "fab fa-fw fa-twitter-square"
+   #   url: "https://twitter.com/Pamelaofori2"
+   # - label: "GitHub"
+   #   icon: "fab fa-fw fa-github"
+    #  url: "https://github.com/PEOFORI"
    # - label: "Google Scholar"
     #  icon: "fas fa-fw fa-graduation-cap"
      # url: "https://scholar.google.com/citations?user=9aWvNMUAAAAJ&hl=en&oi=ao"
