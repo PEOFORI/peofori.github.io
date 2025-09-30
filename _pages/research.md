@@ -14,7 +14,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 # <center> **PUBLICATIONS** </center>
 - - -
 
-**[The role of energy equity and income inequality in environmental sustainability](https://www.sciencedirect.com/science/article/pii/S0959652624026325)** ,Journal of Cleaner Production, 2024, (joint with Isaac K. Ofori and Kenneth Annan). 2024. <br/>
+**[The role of energy equity and income inequality in environmental sustainability](https://www.sciencedirect.com/science/article/pii/S0959652624026325)**, Journal of Cleaner Production, 2024, (joint with Isaac K. Ofori and Kenneth Annan), 2024. <br/>
 
 **[Health shocks and rural farmers credit access shifts in Sub-Saharan Africa: Evidence from the Kwahu Afram Plains South District, Ghana. Environmental Challenges](https://www.sciencedirect.com/science/article/pii/S2667010024000908)**, Environmental Challenges, 2024, (joint with Ametus Kuuwill, Jude Ndzifon Kimengsi, David Natcher, Lawrence Agyepong, George Acquaah, Samuel Ampomah, and Isaac Dasmani.), 2024. <br/>
 
