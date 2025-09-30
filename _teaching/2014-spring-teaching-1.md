@@ -11,20 +11,20 @@ permalink: /teaching/
 height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <!-- End Google Tag Manager (noscript) -->
 
-# <center> Teaching and Research Assistant, School of Economics, University of Cape Coast, Sept. 2018 - Aug. 2019 </center>
+# Teaching and Research Assistant, University of Cape Coast
 
 ---
 
-**Principles of Microeconomics and Macroeconomics (level 100)** <br/>
+**Principles of Microeconomics and Macroeconomics (Undergraduate 1st year)** <br/>
 
-**Elements of Microeconomics and Macroeconomics (level 200)**  <br/>
+**Elements of Microeconomics and Macroeconomics (Undergraduate 2nd year)**  <br/>
 
-**Intermediate statistics (level 300)** <br/>
+**Intermediate statistics (Undergraduate 3rd year)** <br/>
 
-**Econometrics (level 400)** <br/>
+**Econometrics (Undergraduate 4th year)** <br/>
 
 
-## <center> Tutor, The Hartley Trust Foundation School, Kasoa, Mar. 2013 - Aug. 2014 </center>
+##  Tutor, The Hartley Trust Foundation School
 ---
 
 **Reading and Writing for Beginners, supervising fellow teachers)** <br/>
