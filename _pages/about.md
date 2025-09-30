@@ -16,4 +16,4 @@ I am currently a Visiting Scholar at the [University of Granada](https://www.ugr
 
 I am a PhD Candidate at the Department of Economics, [University of Insubria](https://www.phd.eco.uninsubria.it/methods-and-models-for-economic-decisions/phd-students/). My research interests are within the field of **applied econometrics** and **machine learning** with a specialization in sustainability, innovation and development economics. I dabble sometimes in issues of gender inequality.
 
-I currently in the EconJob Market!
+“I am currently on the Economics Job Market, 2025.”
