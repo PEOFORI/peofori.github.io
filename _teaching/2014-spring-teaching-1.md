@@ -26,9 +26,9 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 - - -
 
 
-**Reading and Writing for Beginners, supervising fellow teachers, The Hartley Trust Foundation School, Kasoa, Mar. 2013 - Aug. 2014** <br/>
+**Reading and Writing for Beginners, The Hartley Trust Foundation School, Mar. 2013 - Aug. 2014** <br/>
 
-
+</small><br><br/></div>
 
 
 
