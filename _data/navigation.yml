@@ -17,7 +17,7 @@ main:
     target: "_blank"
 
   - title: "Research"
-    url: /Research/
+    url: /research/
     
   - title: "Teaching"
     url: /teaching/
