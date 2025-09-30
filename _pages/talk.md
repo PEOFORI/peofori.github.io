@@ -1,0 +1,50 @@
+
+---
+title: "Talk 1 on Relevant Topic in Your Field"
+layout: single
+classes: wide
+permalink: /talks/2012-03-01-talk-1
+---
+
+<br/> 
+
+
+
+# <center> CONFERENCES AND WORKSHOPS </center>
+- - -
+
+**[Eastern Sociological Society Annual Meeting](https://www.essnet.org/annual-conference)**, March 6-9, 2025, Boston, MA, USA. <br/>
+
+**[Munich Summer Institute PhD Workshop](https://www.munich-summer-institute.org/msi-ph-d-workshop)**, April 26, 2025, Munich, Germany.  <br/>
+
+**[III PhD Conference in Social Sciences and Economics](https://sites.google.com/uniroma1.it/sapienzaphdconference/call-for-applications-2025?authuser=0)**, September 4-5, 2025, Sapienza University of Rome, Italy.   <br/>
+
+**[Milan PhD Economics Workshop - 3rd Edition](https://sites.google.com/view/milanphdeconworkshop/home)**, June 25, 2025, Università Cattolica del Sacro Cuore, Italy.   <br/>
+
+**[19th BiGSEM Workshop Economics, Finance, and Management](https://www.uni-bielefeld.de/fakultaeten/wirtschaftswissenschaften/einrichtungen/bigsem/bigsem-doctoral-workshop/previous-bigsem-doctoral/)**, December 16-17, 2024, Bielefeld Graduate School of Economics and Management, Germany  <br/>
+
+**[Euro-Mediterranean and African Network for Economic Studies (EMANES) Annual Conference](https://conference2024.emnes.org/programme/#1702356891788-29c57554-bb37)**, December 11-13, 2024, Barcelona, Spain.  <br/>
+
+**[25th IWH-CIREQ-GW-BOKERI Macroeconometric Workshop on International Macroeconomics](https://masteres.ugr.es/economics/docencia/plan-estudios/detallado)**,   November 25-26 2024,  University of Halle, Germany.   <br/>
+
+**[III Workshop on International Trends in Economic Research (III WINTER)](https://masteres.ugr.es/economics/docencia/plan-estudios/detallado)**,  November 8, 2024,  University of Granada, Spain.   <br/>
+
+**[Health, Environment, Development and Growth Economics: New Perspective and Challenges (HEDGE)](https://sites.google.com/view/hedge-2024)**,   September 2-4, 2024, The University of Pisa, Italy.  <br/>
+
+**[1st International Conference on Finance for the Common Good](https://www.iwh-halle.de/en/about-the-iwh/events/detail/25th-iwh-cireq-gw-bokeri-macroeconometric-workshop-international-macroeconomics)**, August 8-10, 2024, The University of Dayton and The Hub Powered by PNC Bank, USA.   <br/>
+
+
+## <center> SEMINARS </center>
+- - -
+
+**PhD Seminar: Granada Department of Economic Theory and History**, October 8, 2025, University of Granada, Spain  <br/>
+
+**Jena Economics Research Seminar Series (Winter Semester)**, Presenter and Discussant, University of Jena, Germany.  <br/>
+
+
+
+### <center> SUMMER SCHOOL </center>
+- - - 
+
+**[2nd edition of The Bioeconomy Transformation: Science, Economics, Business and Society’ Villa del Grumello,](https://lakecomoschool.org/wp-content/uploads/2023/11/BTSE.pdf)**,   June 5-9, 2024, Lake Como School, Italy.  <br/>
+
