@@ -19,9 +19,9 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 **Elements of Microeconomics and Macroeconomics (level 200)**  <br/>
 
-**Intermediate statistics (level 300)**, School of Economics  <br/>
+**Intermediate statistics (level 300)** <br/>
 
-**Econometrics (level 400)**, School of Economics <br/>
+**Econometrics (level 400)** <br/>
 
 
 ## <center> Tutor, The Hartley Trust Foundation School, Kasoa, Mar. 2013 - Aug. 2014 </center>
