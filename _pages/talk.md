@@ -1,9 +1,9 @@
 
 ---
-title: "Talk 1 on Relevant Topic in Your Field"
+title: 
 layout: single
 classes: wide
-permalink: /talks/2012-03-01-talk-1
+permalink: /talk/
 ---
 
 <br/> 
