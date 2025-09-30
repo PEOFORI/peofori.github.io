@@ -3,7 +3,7 @@
 title: 
 layout: single
 classes: wide
-permalink: /teaching/
+permalink: /teachings/
 ---
 <br/> 
 
