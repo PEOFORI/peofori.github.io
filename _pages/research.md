@@ -2,7 +2,7 @@
 title: 
 layout: single
 classes: wide
-permalink: /Research/
+permalink: /research/
 ---
 <br/> 
 
