@@ -1,20 +1,36 @@
 ---
-title: "Teaching experience 1"
-collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+title: 
+layout: single
+classes: wide
+permalink: /teaching/
+---
+<br/> 
+
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-PNS829G"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+# <center> Teaching and Research Assistant, School of Economics, University of Cape Coast, Sept. 2018 - Aug. 2019 </center>
+
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+**Principles of Microeconomics and Macroeconomics (level 100)** <br/>
 
-Heading 1
-======
+**Elements of Microeconomics and Macroeconomics (level 200)**  <br/>
 
-Heading 2
-======
+**Intermediate statistics (level 300)**, School of Economics  <br/>
 
-Heading 3
-======
+**Econometrics (level 400)**, School of Economics <br/>
+
+
+## <center> Tutor, The Hartley Trust Foundation School, Kasoa, Mar. 2013 - Aug. 2014 </center>
+---
+
+**Reading and Writing for Beginners, supervising fellow teachers)** <br/>
+
+
+
+
+
+
