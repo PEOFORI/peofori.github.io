@@ -71,17 +71,13 @@ author:
   steam            : # Username
   telegram         : # URL
   tumblr           : # Username
-  twitter          :  #"@Pamelaofori2"
+  twitter          :  "@Pamelaofori2"
   vine             : # Username
   weibo            : # Username
   wikipedia        : # Username
   xing             : # Username
   youtube          : # Username
   zhihu            : # Username
-  - icon: twitter
-  icon_pack: fab
-  link: "https://twitter.com/your_handle"
-  text: "Twitter"
 
  
 
