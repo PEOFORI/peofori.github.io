@@ -21,7 +21,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 **Econometrics**, University of Cape Coast, Sept. 2018 - Aug. 2019 <br/>
 
-</small><br><br/></div>
+
 
 # <center>  Tutor  </center>
 
@@ -30,7 +30,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 **Reading and Writing for Beginners, The Hartley Trust Foundation School, Mar. 2013 - Aug. 2014** <br/>
 
-</small><br><br/></div>
 
 
 
