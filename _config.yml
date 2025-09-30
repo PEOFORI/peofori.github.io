@@ -78,6 +78,11 @@ author:
   xing             : # Username
   youtube          : # Username
   zhihu            : # Username
+  - icon: twitter
+  icon_pack: fab
+  link: "https://twitter.com/your_handle"
+  text: "Twitter"
+
  
 
 # Publication Category - The following the list of publication categories and their headings
@@ -136,7 +141,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : "@Pamelaofori2"
+  username               : &twitter
 facebook:
   username               :
   app_id                 :
