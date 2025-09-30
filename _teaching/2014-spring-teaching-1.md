@@ -11,23 +11,22 @@ permalink: /teaching/
 height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <!-- End Google Tag Manager (noscript) -->
 
-# Teaching and Research Assistant, University of Cape Coast
+# <center> Teaching and Research Assistant </center>
+- - -
+**Principles of Microeconomics and Macroeconomics**, University of Cape Coast, Sept. 2018 - Aug. 2019 <br/>
 
----
+**Intermediate statistics**, University of Cape Coast, Sept. 2018 - Aug. 2019 <br/> 
 
-**Principles of Microeconomics and Macroeconomics (Undergraduate 1st year)** <br/>
+**Econometrics**, University of Cape Coast, Sept. 2018 - Aug. 2019 <br/>
 
-**Elements of Microeconomics and Macroeconomics (Undergraduate 2nd year)**  <br/>
+</small><br><br/></div>
 
-**Intermediate statistics (Undergraduate 3rd year)** <br/>
+# <center>  Tutor  </center>
 
-**Econometrics (Undergraduate 4th year)** <br/>
+- - -
 
 
-##  Tutor, The Hartley Trust Foundation School
----
-
-**Reading and Writing for Beginners, supervising fellow teachers)** <br/>
+**Reading and Writing for Beginners, supervising fellow teachers, The Hartley Trust Foundation School, Kasoa, Mar. 2013 - Aug. 2014** <br/>
 
 
 
