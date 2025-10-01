@@ -8,12 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-Hi, welcome to my home page!
+Hi, welcome to my webpage!
 
 ## About me
 
-I am currently a Visiting Scholar at the [University of Granada](https://www.ugr.es/en), Department of Economic Theory and Economic History and spent a 6 months at Schumpeter Center for Research on Socio-Economic Change, [University of Jena](https://www.jsec.uni-jena.de/en) as a visiting researcher.
+I am a PhD Candidate in Economics at the [University of Insubria](https://www.phd.eco.uninsubria.it/methods-and-models-for-economic-decisions/phd-students/), currently working as a Visiting Scholar at the [University of Granada](https://www.ugr.es/en). My research interests are in **applied econometrics** and **machine learning**, primarily focusing on sustainability, innovation, and development economics, with a secondary interest in gender inequality.
 
-I am a PhD Candidate at the Department of Economics, [University of Insubria](https://www.phd.eco.uninsubria.it/methods-and-models-for-economic-decisions/phd-students/). My research interests are within the field of **applied econometrics** and **machine learning** with a specialization in sustainability, innovation and development economics. I dabble sometimes in issues of gender inequality.
+Prior to my current visit, I was a Visiting Researcher for six months at the [University of Jena's](https://www.jsec.uni-jena.de/en) Schumpeter Center for Research on Socio-Economic Change.
 
-I am currently on the EconJob Market, 2025!.
+I am currently on the 2025-2026 Economics Job Market.
