@@ -11,7 +11,7 @@ permalink: /teachings/
 height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <!-- End Google Tag Manager (noscript) -->
 
-# Teaching/Research Assistant
+# <center> Teaching/Research Assistant  </center>
 - - -
 **Principles of Microeconomics and Macroeconomics**, University of Cape Coast, Sept. 2018 - Aug. 2019 <br/>
 
@@ -23,7 +23,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 
 
-## Tutor 
+## <center> Tutor  </center>
 
 - - -
 
