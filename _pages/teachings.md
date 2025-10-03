@@ -11,7 +11,7 @@ permalink: /teachings/
 height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <!-- End Google Tag Manager (noscript) -->
 
-# <center> Teaching and Research Assistant </center>
+# Teaching/Research Assistant
 - - -
 **Principles of Microeconomics and Macroeconomics**, University of Cape Coast, Sept. 2018 - Aug. 2019 <br/>
 
@@ -23,9 +23,9 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 
 
-# <center>  Tutor  </center>
+## Tutor 
 
 - - -
 
 
-**Reading and Writing for Beginners, The Hartley Trust Foundation School, Mar. 2013 - Aug. 2014** <br/>
+**Reading and Writing for Beginners, The Hartley Trust Foundation School, Mar. 2013 - Aug. 2014 <br/>
