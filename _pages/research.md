@@ -13,11 +13,11 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 # <center> PUBLICATIONS </center>
 - - -
-**[Robust Determinants of Green Finance](https://doi.org/10.1016/j.eneco.2025.109003)**, Energy Economics, 2025,  (joint with Daryna Grechyna), 2025. <br/>
+**[Robust Determinants of Green Finance](https://doi.org/10.1016/j.eneco.2025.109003)**, Energy Economics, (joint with Daryna Grechyna), 2025. <br/>
  
 **[The role of energy equity and income inequality in environmental sustainability](https://www.sciencedirect.com/science/article/pii/S0959652624026325)**, Journal of Cleaner Production, 2024, (joint with Isaac K. Ofori and Kenneth Annan), 2024. <br/>
 
-**[Health shocks and rural farmers credit access shifts in Sub-Saharan Africa: Evidence from the Kwahu Afram Plains South District, Ghana. Environmental Challenges](https://www.sciencedirect.com/science/article/pii/S2667010024000908)**, Environmental Challenges, 2024, (joint with Ametus Kuuwill, Jude Ndzifon Kimengsi, David Natcher, Lawrence Agyepong, George Acquaah, Samuel Ampomah, and Isaac Dasmani.), 2024. <br/>
+**[Health shocks and rural farmers credit access shifts in Sub-Saharan Africa: Evidence from the Kwahu Afram Plains South District, Ghana. Environmental Challenges](https://www.sciencedirect.com/science/article/pii/S2667010024000908)**, Environmental Challenges, (joint with Ametus Kuuwill, Jude Ndzifon Kimengsi, David Natcher, Lawrence Agyepong, George Acquaah, Samuel Ampomah, and Isaac Dasmani.), 2024. <br/>
 
 
 **[Effect of human capital development and institutional quality on inclusive growth in African countries](https://www.tandfonline.com/doi/pdf/10.1080/23322039.2024.2357155)**, Cogent Economics & Finance, (joint with Ametus Kuuwill and Bright Quaye), 2024. <br/>
