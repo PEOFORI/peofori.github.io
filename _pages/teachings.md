@@ -13,6 +13,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 # <center> Teaching/Research Assistant  </center>
 - - -
+**Master thesis assistance**, University of Insubria, Sept. 2022 - Present <br/>
+
 **Principles of Microeconomics and Macroeconomics**, University of Cape Coast, Sept. 2018 - Aug. 2019 <br/>
 
 **Elements of Microeconomics and Macroeconomics**, University of Cape Coast, Sept. 2018 - Aug. 2019 <br/>
@@ -21,7 +23,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 **Econometrics**, University of Cape Coast, Sept. 2018 - Aug. 2019 <br/>
 
-**Master thesis assistance**, University of Insubria, Sept. 2018 - Aug. 2019 <br/>
 
 
 
