@@ -15,15 +15,15 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 - - -
 - [Robust Determinants of Green Finance](https://doi.org/10.1016/j.eneco.2025.109003), Energy Economics, (joint with Daryna Grechyna), 2025. <br/>
  
-- [The role of energy equity and income inequality in environmental sustainability](https://www.sciencedirect.com/science/article/pii/S0959652624026325), Journal of Cleaner Production, 2024, (joint with Isaac K. Ofori and Kenneth Annan), 2024. <br/>
+- [The role of energy equity and income inequality in environmental sustainability](https://www.sciencedirect.com/science/article/pii/S0959652624026325), Journal of Cleaner Production, (joint with Isaac K. Ofori and Kenneth Annan), 2024. <br/>
 
 - [Effect of human capital development and institutional quality on inclusive growth in African countries](https://www.tandfonline.com/doi/pdf/10.1080/23322039.2024.2357155), Cogent Economics & Finance, (joint with Ametus Kuuwill and Bright Quaye), 2024. <br/>
 
-- [The synergy between governance and trade openness in promoting female economic inclusion in Sub-Saharan Africa](https://doi.org/10.1016/j.wsif.2022.102672), Women's Studies International Forum, (joint with Simplice A. Asongu, Vanessa S. Tchamyou, and Raufhon Salahodjaev.), 2023. <br/>
+- [The synergy between governance and trade openness in promoting female economic inclusion in Sub-Saharan Africa](https://doi.org/10.1016/j.wsif.2022.102672), Women's Studies International Forum, (joint with Simplice A. Asongu, Vanessa S. Tchamyou, and Raufhon Salahodjaev), 2023. <br/>
 
 - [What drives financial sector development in Africa? Insights from machine learning](https://doi.org/10.1080/08839514.2021.1999597), Applied Artificial Intelligence, (joint with Isaac K. Ofori and Christopher Quaidoo), 2021. <br/>
 
-- [Addressing the severity and intensity of poverty in Sub-Saharan Africa: how relevant is the ICT and financial development pathway?](https://doi.org/10.1016/j.heliyon.2021.e08156),  Heliyon, (joint with Isaac K. Ofori, Isaac Kwesi Ofori, Mark Kojo Armah and Francis Taale,), 2021. <br/>
+- [Addressing the severity and intensity of poverty in Sub-Saharan Africa: how relevant is the ICT and financial development pathway?](https://doi.org/10.1016/j.heliyon.2021.e08156), Heliyon, (joint with Isaac K. Ofori, Isaac Kwesi Ofori, Mark Kojo Armah and Francis Taale), 2021. <br/>
 
 - [Remittances, natural resource rent and economic growth in Sub-Saharan Africa](https://doi.org/10.1080/23322039.2021.1979305), Cogent Economics & Finance, (joint with Daryna Grechyna), 2021. <br/>
 
@@ -44,7 +44,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 - Effect of Energy Equity on Inequalities in Health, Education, and Income: The Crucial Role of Economic Freedom (joint with Isaac K. Ofori, Michael E. Batuo)
   
 - [Effects of Innovation and Economic Freedom on Female Economic Inclusion](https://www.econstor.eu/bitstream/10419/298786/1/Ofori-Female-Economic-Inclusion.pdf), (Joint with Isaac K. Ofori and Paolo Castelnovo). <br/>
-
 
 
 # WORK IN PROGRESS
