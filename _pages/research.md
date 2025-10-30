@@ -21,7 +21,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 - [The synergy between governance and trade openness in promoting female economic inclusion in Sub-Saharan Africa](https://doi.org/10.1016/j.wsif.2022.102672), Women's Studies International Forum, (joint with Simplice A. Asongu, Vanessa S. Tchamyou, and Raufhon Salahodjaev.), 2023. <br/>
 
-- [What drives financial sector development in Africa? Insights from machine learning]([https://doi.org/10.1016/j.tele.2022.101857](https://doi.org/10.1080/08839514.2021.1999597), Applied Artificial Intelligence, (joint with Isaac K. Ofori and Christopher Quaidoo), 2021. <br/>
+- [What drives financial sector development in Africa? Insights from machine learning](https://doi.org/10.1080/08839514.2021.1999597), Applied Artificial Intelligence, (joint with Isaac K. Ofori and Christopher Quaidoo), 2021. <br/>
 
 - [Addressing the severity and intensity of poverty in Sub-Saharan Africa: how relevant is the ICT and financial development pathway?](https://doi.org/10.1016/j.heliyon.2021.e08156),  Heliyon, (joint with Isaac K. Ofori, Isaac Kwesi Ofori, Mark Kojo Armah and Francis Taale,), 2021. <br/>
 
