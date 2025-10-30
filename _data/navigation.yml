@@ -9,8 +9,8 @@
 
 # main links links
 main:
-  - title: "About Me"
-    url: /
+ # - title: "About Me"
+ #   url: /
 
   - title: "CV"
     url: /files/Pamela_Efua_Ofori_CV.pdf
