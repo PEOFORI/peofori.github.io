@@ -27,7 +27,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 - [Remittances, natural resource rent and economic growth in Sub-Saharan Africa](https://doi.org/10.1080/23322039.2021.1979305), Cogent Economics & Finance, (joint with Daryna Grechyna), 2021. <br/>
 
-## BOOK CHAPTER
+# BOOK CHAPTER
 - - -
 - [Inclusive Green Growth in OECD Countries: Insight from the Lasso Regularisation and Inferential Techniques](https://www.taylorfrancis.com/chapters/edit/10.1201/9781003283980-18/inclusive-green-growth-oecd-countries-insight-lasso-regularization-inferential-techniques-andrea-vezzulli-isaac-ofori-pamela-ofori-emmanuel-gbolonyo), Artificial Intelligence and Engineering Mathematics: Foundations, Techniques, and Applications, (joint with Andrea vezzulli, Isaac K. Ofori and Emmanuel Gbolonyo), 2023. <br/>
 
