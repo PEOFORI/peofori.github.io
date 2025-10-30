@@ -28,8 +28,5 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 
 ## <center> Tutor  </center>
-
 - - -
-
-
 **Reading and Writing for Beginners, The Hartley Trust Foundation School, Mar. 2013 - Aug. 2014 <br/>
