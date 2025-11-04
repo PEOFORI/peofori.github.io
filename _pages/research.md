@@ -49,6 +49,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 # WORK IN PROGRESS
 - - -
 
-- Innovation and Environmental Taxex and Environmental Wellbeing (joint with Andrea Vezzulli, Paolo Castelnovo, Isaac K. Ofori). 
+- Innovation and Environmental Taxes and Environmental Wellbeing (joint with Andrea Vezzulli, Paolo Castelnovo, Isaac K. Ofori). 
 
 - Carbon Tax and Wellbeing (joint with Andrea Vezzulli, Paolo Castelnovo, Isaac K. Ofori). <br/>
