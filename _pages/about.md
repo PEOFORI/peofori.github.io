@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Pamela Efua Ofori"
+title: ""
 excerpt: "About me"
 author_profile: true
 redirect_from: 
