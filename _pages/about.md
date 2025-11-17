@@ -16,4 +16,7 @@ I am a PhD Candidate in Economics at the [University of Insubria](https://www.ph
 
 During my studies, I have also been a Visiting Researcher at the [University of Granada](https://www.ugr.es/en) and the [University of Jena's](https://www.jsec.uni-jena.de/en) Schumpeter Center for Research on Socio-Economic Change.
 
-I am currently on the 2025-2026 Economics Job Market.
+<font color="blue">I am currently on the 2025-2026 Economics Job Market.</font>
+
+
+
