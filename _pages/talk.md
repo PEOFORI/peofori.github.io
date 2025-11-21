@@ -28,7 +28,7 @@ permalink: /talk/
 
 **[25th IWH-CIREQ-GW-BOKERI Macroeconometric Workshop on International Macroeconomics](https://www.iwh-halle.de/en/about-the-iwh/events/detail/25th-iwh-cireq-gw-bokeri-macroeconometric-workshop-international-macroeconomics)**,   November 25-26 2024,  University of Halle, Germany.   <br/>
 
-**[III Workshop on International Trends in Economic Research (III WINTER)](https://masteres.ugr.es/economics/docencia/plan-estudios/detallado)**,  November 8, 2024,  University of Granada, Spain.   <br/>
+**[III Workshop on International Trends in Economic Research (III WINTER)](https://tehieco.ugr.es/sites/dpto/tehieco/public/ficheros/noticias/2024-11/III%20WINTER%20programme%20students.pdf)**,  November 8, 2024,  University of Granada, Spain.   <br/>
 
 **[Health, Environment, Development and Growth Economics: New Perspective and Challenges (HEDGE)](https://sites.google.com/view/hedge-2024)**,   September 2-4, 2024, The University of Pisa, Italy.  <br/>
 
