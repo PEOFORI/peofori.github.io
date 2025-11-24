@@ -11,7 +11,7 @@ permalink: /teachings/
 height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <!-- End Google Tag Manager (noscript) -->
 
-#  Teaching/Research Assistant 
+#  TEARCHING/RESEARCH ASSISTANT 
 - - -
 - **Master thesis assistance**, University of Insubria, Sept. 2022 - Present <br/>
 
@@ -27,6 +27,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 
 
-# Tutor
+# TUTOR
 - - -
-**Reading and Writing for Beginners, The Hartley Trust Foundation School, Mar. 2013 - Aug. 2014 <br/>
+- **Reading and Writing for Beginners**, The Hartley Trust Foundation School, Mar. 2013 - Aug. 2014 <br/>
