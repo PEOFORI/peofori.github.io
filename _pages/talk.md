@@ -10,7 +10,7 @@ permalink: /talk/
 <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-PNS829G" height="0" width="0" style="display:none;visibility:hidden"></iframe>
 
 
-# <center> CONFERENCES AND WORKSHOPS </center>
+# CONFERENCES AND WORKSHOPS 
 - - -
 **[Insubria 3rd year PhD Workshop 2025](https://dieco.uninsubria.it/it/eventi/3d-year-phd-workshop)**, March 6-9, 2025, Boston, MA, USA. <br/>
 
@@ -35,7 +35,7 @@ permalink: /talk/
 **[1st International Conference on Finance for the Common Good](https://vizja.pl/en/2024/04/16/1st-international-conference-on-finance-for-the-common-good-icfcg/)**, August 8-10, 2024, The University of Dayton and The Hub Powered by PNC Bank, USA.   <br/>
 
 
-## <center> SEMINARS </center>
+# SEMINARS 
 - - -
 
 ** Granada Research Seminar at the Department of Economic Theory and History**, October 8, 2025, University of Granada, Spain  <br/>
@@ -44,8 +44,8 @@ permalink: /talk/
 
 
 
-### <center> SUMMER SCHOOL </center>
+# SUMMER SCHOOL 
 - - - 
 
-**[2nd edition of The Bioeconomy Transformation: Science, Economics, Business and Society’ Villa del Grumello,](https://lakecomoschool.org/wp-content/uploads/2023/11/BTSE.pdf)**,   June 5-9, 2024, Lake Como School, Italy.  <br/>
+**[2nd edition of The Bioeconomy Transformation: Science, Economics, Business and Society’ Villa del Grumello](https://lakecomoschool.org/wp-content/uploads/2023/11/BTSE.pdf)**,   June 5-9, 2024, Lake Como School, Italy.  <br/>
 
