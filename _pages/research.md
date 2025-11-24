@@ -34,21 +34,21 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 # WORKING PAPERS 
 - - -
-- Frontier Technology Adoption, Energy Equity and Environmental Quality of Life in Sub-Saharan Africa (joint with Isaac K. Ofori and Nathaniel Ojong)
+- Frontier Technology Adoption, Energy Equity and Environmental Quality of Life in Sub-Saharan Africa (joint with Isaac K. Ofori and Nathaniel Ojong).*Submitted* <br/>
 
 - [Eco-Innovation and Green Growth: The Moderating Role of Income Inequality](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5457114). <br/>
 *Revise and Resubmit*. <br/>
 
-- [Environmental Summits and Innovation](https://www.ifo.de/DocDL/cesifo1_wp12120.pdf)** (joint with Daryna Grechyna). <br/>
+- [Environmental Summits and Innovation](https://www.ifo.de/DocDL/cesifo1_wp12120.pdf)** (joint with Daryna Grechyna). *Submitted* <br/>
 
-- Effect of Energy Equity on Inequalities in Health, Education, and Income: The Crucial Role of Economic Freedom (joint with Isaac K. Ofori, Michael E. Batuo)
-  
-- [Effects of Innovation and Economic Freedom on Female Economic Inclusion](https://www.econstor.eu/bitstream/10419/298786/1/Ofori-Female-Economic-Inclusion.pdf), (Joint with Isaac K. Ofori and Paolo Castelnovo). <br/>
+- Effect of Energy Equity on Inequalities in Health, Education, and Income: The Crucial Role of Economic Freedom (joint with Isaac K. Ofori, Michael E. Batuo). *Under Review* <br/>
+
+- [Effects of Innovation and Economic Freedom on Female Economic Inclusion](https://www.econstor.eu/bitstream/10419/298786/1/Ofori-Female-Economic-Inclusion.pdf), (Joint with Isaac K. Ofori and Paolo Castelnovo). *Under Review* <br/>
 
 
 # WORK IN PROGRESS
 - - -
 
-- Innovation and Environmental Taxes and Environmental Wellbeing (joint with Andrea Vezzulli, Paolo Castelnovo, Isaac K. Ofori). 
+- Innovation, Environmental Taxes and Environmental Wellbeing (joint with Andrea Vezzulli, Paolo Castelnovo, Isaac K. Ofori). 
 
 - Carbon Tax and Wellbeing (joint with Andrea Vezzulli, Paolo Castelnovo, Isaac K. Ofori). <br/>
