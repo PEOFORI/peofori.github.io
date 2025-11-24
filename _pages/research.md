@@ -13,7 +13,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 #  PUBLICATIONS 
 - - -
-- Robust Determinants of Green Finance, Energy Economics, 2025 (joint with Daryna Grechyna)[pdf](https://doi.org/10.1016/j.eneco.2025.109003). <br/>
+- Robust Determinants of Green Finance, Energy Economics, 2025 (joint with Daryna Grechyna); [pdf](https://doi.org/10.1016/j.eneco.2025.109003). <br/>
  
 - The role of energy equity and income inequality in environmental sustainability, Journal of Cleaner Production, 2025 (joint with Isaac K. Ofori and Kenneth Annan); [pdf](https://www.sciencedirect.com/science/article/pii/S0959652624026325). <br/>
 
