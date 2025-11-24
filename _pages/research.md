@@ -34,16 +34,16 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 # WORKING PAPERS 
 - - -
-- Frontier Technology Adoption, Energy Equity and Environmental Quality of Life in Sub-Saharan Africa (joint with Isaac K. Ofori and Nathaniel Ojong). *Submitted* <br/>
+- Frontier Technology Adoption, Energy Equity and Environmental Quality of Life in Sub-Saharan Africa (joint with Isaac K. Ofori and Nathaniel Ojong). <br/> *Submitted* <br/>
 
 - Eco-Innovation and Green Growth: The Moderating Role of Income Inequality; [pdf](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5457114) <br/>
 *Revise and Resubmit*. <br/>
 
-- Environmental Summits and Innovation (joint with Daryna Grechyna); [pdf](https://www.ifo.de/DocDL/cesifo1_wp12120.pdf) *Submitted* <br/>
+- Environmental Summits and Innovation (joint with Daryna Grechyna); [pdf](https://www.ifo.de/DocDL/cesifo1_wp12120.pdf) <br/> *Submitted* <br/>
 
-- Effect of Energy Equity on Inequalities in Health, Education, and Income: The Crucial Role of Economic Freedom (joint with Isaac K. Ofori, Michael E. Batuo). *Under Review* <br/>
+- Effect of Energy Equity on Inequalities in Health, Education, and Income: The Crucial Role of Economic Freedom (joint with Isaac K. Ofori, Michael E. Batuo).<br/> *Under Review* <br/>
 
-- Effects of Innovation and Economic Freedom on Female Economic Inclusion (Joint with Isaac K. Ofori and Paolo Castelnovo); [pdf](https://www.econstor.eu/bitstream/10419/298786/1/Ofori-Female-Economic-Inclusion.pdf) *Under Review* <br/>
+- Effects of Innovation and Economic Freedom on Female Economic Inclusion (Joint with Isaac K. Ofori and Paolo Castelnovo); [pdf](https://www.econstor.eu/bitstream/10419/298786/1/Ofori-Female-Economic-Inclusion.pdf) <br/> *Under Review* <br/>
 
 
 # WORK IN PROGRESS
